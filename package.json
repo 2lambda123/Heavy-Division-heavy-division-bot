@@ -17,7 +17,7 @@
   "dependencies": {
     "@elastic/ecs-winston-format": "^1.1.0",
     "@types/bad-words": "^3.0.3",
-    "bad-words": "^3.0.4",
+    "bad-words": "^4.0.0",
     "cowsay": "^1.5.0",
     "discord.js": "^14.0.3",
     "elastic-apm-node": "^3.35.0",
